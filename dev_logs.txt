@@ -1,0 +1,56 @@
+
+> portfolio@0.1.0 dev
+> next dev --turbopack
+
+   ▲ Next.js 15.5.9 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.5.111:3000
+
+ ✓ Starting...
+ ✓ Ready in 1279ms
+ ○ Compiling / ...
+ ✓ Compiled / in 7.1s
+ GET / 200 in 2092ms
+ ○ Compiling /_not-found/page ...
+ ✓ Compiled /_not-found/page in 5.1s
+ GET /icon.png?icon.2d1c7e59.png 200 in 3868ms
+ GET /project3.jpg 404 in 4545ms
+ GET /project1.jpg 404 in 6376ms
+ GET /project2.jpg 404 in 6403ms
+ ⨯ The requested resource isn't a valid image for /project3.jpg received null
+ ⨯ The requested resource isn't a valid image for /project1.jpg received null
+ ⨯ The requested resource isn't a valid image for /project2.jpg received null
+ GET /icon.png?icon.2d1c7e59.png 200 in 562ms
+ GET / 200 in 1724ms
+ ✓ Compiled in 938ms
+ GET / 200 in 1330ms
+ GET /resume.pdf 404 in 164ms
+ GET /resume.pdf 404 in 231ms
+ ✓ Compiled in 145ms
+ ✓ Compiled in 159ms
+ ✓ Compiled in 141ms
+ ✓ Compiled in 105ms
+ ✓ Compiled in 122ms
+ GET / 200 in 3446ms
+ GET /icon.png?icon.2d1c7e59.png 200 in 605ms
+ GET /icon.png?icon.2d1c7e59.png 200 in 917ms
+ GET / 200 in 1228ms
+ GET / 200 in 524ms
+ GET /icon.png?icon.2d1c7e59.png 200 in 811ms
+ GET / 200 in 481ms
+ GET /icon.png?icon.2d1c7e59.png 200 in 544ms
+ GET / 200 in 758ms
+ GET /icon.png?icon.2d1c7e59.png 200 in 389ms
+ GET / 200 in 372ms
+ GET /icon.png?icon.2d1c7e59.png 200 in 358ms
+ GET / 200 in 1065ms
+ GET /icon.png?icon.2d1c7e59.png 200 in 920ms
+ GET / 200 in 1274ms
+ GET /icon.png?icon.2d1c7e59.png 200 in 428ms
+ ✓ Compiled in 177ms
+ GET / 200 in 3119ms
+ GET /icon.png?icon.2d1c7e59.png 200 in 616ms
+ GET / 200 in 1012ms
+ GET /icon.png?icon.2d1c7e59.png 200 in 650ms
+ GET / 200 in 406ms
+ GET /icon.png?icon.2d1c7e59.png 200 in 378ms
