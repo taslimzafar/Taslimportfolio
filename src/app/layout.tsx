@@ -11,6 +11,8 @@ import Particles from "@/components/Particles";
 import Galaxy from "@/components/Galaxy";
 import DotGrid from "@/components/DotGrid";
 import Script from "next/script";
+import { ScrollProgress } from "@/components/ui/scroll-progress";
+import { CustomCursor } from "@/components/ui/custom-cursor";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -116,6 +118,8 @@ export default function RootLayout({
           /> */}
         </div>
         <div className="relative z-10">
+          <ScrollProgress className="top-0" />
+          <CustomCursor />
           {/* <ThemeProvider attribute="class" defaultTheme="dark" enableSystem> */}
           <ClickSpark
             sparkColor='#fff'
